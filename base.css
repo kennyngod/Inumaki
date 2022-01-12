@@ -1,5 +1,5 @@
 .app-2rEoOp {
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(https://i.imgur.com/dl5utiy.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(./ambrose.jpg);
   background-size: cover;
   border: 1px;
 }
@@ -375,7 +375,7 @@
 
 .container-3auIfb rect {
   fill: #141414;
-  rx: 5;
+  /* rx: 5; */
 }
 
 .container-3auIfb path {
@@ -388,7 +388,7 @@
 
 .container-3auIfb[style*="background-color: rgb(67, 181, 129);"] rect {
   fill: #242424;
-  rx: 5;
+  /* rx: 5; */
 }
 
 .container-3auIfb[style*="background-color: rgb(67, 181, 129);"] path {
@@ -586,7 +586,7 @@
 
 .radioIconForeground-XwlXQN {
   color: #f6f6f6;
-  r: 7;
+  /* r: 7; */
 }
 
 .item-26Dhrx[aria-checked=true] {
@@ -1163,7 +1163,7 @@
   border-radius: 15px !important;
   margin-left: 5px;
   top: 15px;
-  z-index: 1;
+  /* z-index: 1; */
   background-color: rgba(60, 60, 60 , 0.59);
   border: 2px solid #141414;
 }
@@ -2498,7 +2498,7 @@
     background-color: #171717;
 }
 
-.tierMarkerAccomplished-2MiXeg,{
+.tierMarkerAccomplished-2MiXeg {
     background-color: #242424;
 }
 
@@ -2555,7 +2555,9 @@ svg.homeIcon-FuNwkv{
   --switch-color: transparent;
 }
 #app-mount .content-1o0f9g{
-    background-color: black;
+    background-color: black
+};
+
 #bd-pub-button{
   background-color: rgba(0, 0, 0, 0.4);
 }
